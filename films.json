@@ -64,6 +64,10 @@
             {
                 "title": "To Have And Have Not",
                 "reason": "Lots of people call this a bit of a ripoff -- and it isn't as good! -- but it's nice if you want more of the Bogart-as-an-expat-during-WW2 genre"
+            },
+            {
+                "title": "Play It Again, Sam",
+                "reason": "Woody Allen comedy where the ghost of Humphery Bogart appears to give him advice on how to treat women"
             }
         ]
     },
@@ -138,6 +142,96 @@
             {
                 "title": "Baby Driver",
                 "reason": "If you think the best part of this fantastic film was the car chases"
+            }
+        ]
+    },
+    "Reservoir Dogs": {
+        "year": 1992,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "True Romance",
+                "reason": ""
+            },
+            {
+                "title": "Violent and gratuitous look at the media's glamorisation of violence",
+                "reason": ""
+            }
+        ]
+    },
+    "Double Indemnity": {
+        "year": 1944,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "The Third Man",
+                "reason": "Another great early noir directed by Carol Reed"
+            },
+            {
+                "title": "The Maltese Falcon",
+                "reason": "Similar feel, starring Humphrey Bogart as a Private Eye who gets caught up in a complex plot"
+            }
+        ]
+    },
+    "Edge Of Tomorrow": {
+        "year": 2014,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Source Code",
+                "reason": ""
+            },
+            {
+                "title": "Groundhog Day",
+                "reason": ""
+            },
+            {
+                "title": "Palm Springs",
+                "reason": ""
+            }
+        ]
+    },
+    "The Princess Bride": {
+        "year": 1987,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Ferris Bueller's Day Off",
+                "reason": "Feeling ill and staying in bed"
+            }
+        ]
+    },
+    "Bill And Ted's Excellent Adventure": {
+        "year": 1988,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Bill And Ted's Bogus Journey",
+                "reason": "Arthur once told me that the first film was the most 80s movie ever, and the sequel is the most 90s movie ever, and they're only three years apart. Actually I think he ripped that from RedLetterMedia"
+            }
+        ]
+    },
+    "Marriage Story": {
+        "year": 2019,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Lost In Translation",
+                "reason": "Scarlett Johanssen"
+            }
+        ]
+    },
+    "Lost In Translation": {
+        "year": 2003,
+        "description": "Sofia Coppola made this after her breakup with Spike Jonze",
+        "recommendations": [
+            {
+                "title": "Her",
+                "reason": "Spike Jonze made this after his breakup with Sofia Coppola. Makes for a good companion piece"
+            },
+            {
+                "title": "In The Mood For Love",
+                "reason": "Slow, dreamy film in a bright neon city. Maybe there should be a genre of half-romances. Hallway brushes and glances not met."
             }
         ]
     }
