@@ -20,6 +20,10 @@
             {
                 "title": "Casino",
                 "reason": "Scorsese's other big gangster film from the 90s"
+            },
+            {
+                "title": "The Freshman",
+                "reason": ""
             }
         ]
     },
@@ -30,6 +34,14 @@
             {
                 "title": "Dial M For Murder",
                 "reason": ""
+            },
+            {
+                "title": "Rear Window",
+                "reason": "Hitchcock"
+            },
+            {
+                "title": "Strangers On A Train",
+                "reason": "Why do people keep on thinking they can get away with murder?"
             }
         ]
     },
@@ -39,7 +51,7 @@
         "recommendations": [
             {
                 "title": "The Double",
-                "reason": "Another surreal ultra faceless corporation sort of film - directed by Richard Ayoade"
+                "reason": "Another film about dystopian bureaucray - directed by Richard Ayoade!"
             }
         ]
     },
@@ -68,6 +80,10 @@
             {
                 "title": "Play It Again, Sam",
                 "reason": "Woody Allen comedy where the ghost of Humphery Bogart appears to give him advice on how to treat women"
+            },
+            {
+                "title": "Citizen Kane",
+                "reason": "Alongside Casablanca, this was the film which got me into 'old' films. They're both incredibly accessible if you want a gateway into older cinema"
             }
         ]
     },
@@ -107,6 +123,10 @@
             {
                 "title": "AKIRA",
                 "reason": "Cyberpunk world"
+            },
+            {
+                "title": "Blade Runner 2049",
+                "reason": "Obviously. BTW the sequel is just as good. Absolutely gorgeous"
             }
         ]
     },
@@ -132,6 +152,14 @@
             {
                 "title": "Drive",
                 "reason": "Ryan Gosling plays a man with no emotion"
+            },
+            {
+                "title": "Blade Runner",
+                "reason": ""
+            },
+            {
+                "title": "Dune",
+                "reason": "Another film with a great sense of SCALE"
             }
         ]
     },
@@ -154,8 +182,12 @@
                 "reason": ""
             },
             {
-                "title": "Violent and gratuitous look at the media's glamorisation of violence",
-                "reason": ""
+                "title": "Natural Born Killers",
+                "reason": "Violent and gratuitous look at the media's glamorisation of violence"
+            },
+            {
+                "title": "Swingers",
+                "reason": "My favourite film! References Reservoir Dogs several times throughout, you can really feel how much Jon Favreau also loved the film"
             }
         ]
     },
@@ -198,6 +230,10 @@
             {
                 "title": "Ferris Bueller's Day Off",
                 "reason": "Feeling ill and staying in bed"
+            },
+            {
+                "title": "Bill And Ted's Excellent Adventure",
+                "reason": "Fun adventure"
             }
         ]
     },
@@ -218,6 +254,14 @@
             {
                 "title": "Lost In Translation",
                 "reason": "Scarlett Johanssen"
+            },
+            {
+                "title": "The Squid And The Whale",
+                "reason": "Noah Baumbach looks at marriage but from the kids' perspective"
+            },
+            {
+                "title": "The Meyorowitz Stories",
+                "reason": "Also directed by Noah Baumbach, similar raw dialogue"
             }
         ]
     },
@@ -232,6 +276,370 @@
             {
                 "title": "In The Mood For Love",
                 "reason": "Slow, dreamy film in a bright neon city. Maybe there should be a genre of half-romances. Hallway brushes and glances not met."
+            }
+        ]
+    },
+    "10 Things I Hate About You": {
+        "year": 1999,
+        "description": "High School adaptation of The Taming Of The Shrew",
+        "recommendations": [
+            {
+                "title": "Clueless",
+                "reason": "High School adaptation of Emma"
+            },
+            {
+                "title": "She's The Man",
+                "reason": "High School adaptation of Twelfth Night"
+            },
+            {
+                "title": "Romeo + Juliet",
+                "reason": "Baz Luhrmann's adaptation transposed to Venice Beach"
+            }
+        ]
+    },
+    "The Disaster Artist": {
+        "year": 2017,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "The Room",
+                "reason": "OBVIOUSLY"
+            }
+        ]
+    },
+    "The Room": {
+        "year": 2003,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "The Disaster Artist",
+                "reason": "OBVIOUSLY"
+            }
+        ]
+    },
+    "Shaun Of The Dead": {
+        "year": 2004,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Hot Fuzz",
+                "reason": "Second film in the cornetto trilogy"
+            },
+            {
+                "title": "The World's End",
+                "reason": "Third film in the cornetto trilogy"
+            }
+        ]
+    },
+    "Hot Fuzz": {
+        "year": 2007,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Shaun Of The Dead",
+                "reason": "First film in the cornetto trilogy"
+            },
+            {
+                "title": "The World's End",
+                "reason": "Third film in the cornetto trilogy"
+            }
+        ]
+    },
+    "The World's End": {
+        "year": 2013,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Hot Fuzz",
+                "reason": "Second film in the cornetto trilogy"
+            },
+            {
+                "title": "Shaun Of The Dead",
+                "reason": "First film in the cornetto trilogy"
+            }
+        ]
+    },
+    "Rashomon": {
+        "year": 1950,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "She's Gotta Have It",
+                "reason": ""
+            },
+            {
+                "title": "The Last Duel",
+                "reason": "Same story from multiple perspectives"
+            }
+        ]
+    },
+    "Juno": {
+        "year": 2009,
+        "description": "Ellen Page was my celebrity crush after watching this",
+        "recommendations": [
+            {
+                "title": "Superbad",
+                "reason": "Micheal Cera"
+            },
+            {
+                "title": "Whip It",
+                "reason": "More of my celebrity crush"
+            },
+            {
+                "title": "Adventureland",
+                "reason": "Similar I think ? (I watched it a long time ago)"
+            }
+        ]
+    },
+    "Man Bites Dog": {
+        "year": 1992,
+        "description": "Documentary crew following a serial killer become increasingly involved in helping him kill people. And the sound guy keeps getting killed.",
+        "recommendations": [
+            {
+                "title": "Natural Born Killers",
+                "reason": "A different look at how the media glamorises violence"
+            },
+            {
+                "title": "Nightcrawler",
+                "reason": "The line blurs between observer and participant but applied to local news emergency responses."
+            }
+        ]
+    },
+    "Platoon": {
+        "year": 1986,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Full Metal Jacket",
+                "reason": ""
+            },
+            {
+                "title": "Apocalypse Now",
+                "reason": ""
+            },
+            {
+                "title": "The Deer Hunter",
+                "reason": ""
+            }
+        ]
+    },
+    "Taxi Driver": {
+        "year": 1976,
+        "description": "Tom memes me for talking about \"the name Travis Bickle shows how conflicted he is because Travis is a nice name and Bickle is sharp and spiky, which mirrors the tension he feels inside\". BUT IT'S A GREAT FILM. About 20 minutes in you think \"Hey haven't we already had this song?\"",
+        "recommendations": [
+            {
+                "title": "The King Of Comedy",
+                "reason": ""
+            },
+            {
+                "title": "Joker",
+                "reason": ""
+            }
+        ]
+    },
+    "The Breakfast Club": {
+        "year": 1985,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Sixteen Candles",
+                "reason": "John Hughes"
+            },
+            {
+                "title": "Ferris Bueller's Day Off",
+                "reason": "JOHN HUGHES!"
+            }
+        ]
+    },
+    "Citizen Kane": {
+        "year": 1941,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "The Magnificent Ambersons",
+                "reason": "A similar film, also directed by Orson Welles"
+            }
+        ]
+    },
+    "Mulholland Dr.": {
+        "year": 2000,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Blue Velvet",
+                "reason": ""
+            },
+            {
+                "title": "I'm Thinking Of Ending Things",
+                "reason": "Yeah you don't really know where you are with this film either."
+            }
+        ]
+    },
+    "Four Weddings And A Funeral": {
+        "year": 1994,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Notting Hill",
+                "reason": "Richard Curtis/Hugh Grant"
+            },
+            {
+                "title": "Love Actually",
+                "reason": "There should be a nicer name for this trilogy. Richard Curtis finally gets to direct his own screenplays"
+            },
+            {
+                "title": "Singles",
+                "reason": ""
+            }
+        ]
+    },
+    "Singles": {
+        "year": 1992,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Reality Bites",
+                "reason": ""
+            }
+        ]
+    },
+    "Rear Window": {
+        "year": 1954,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Vertigo",
+                "reason": ""
+            },
+            {
+                "title": "Psycho",
+                "reason": ""
+            },
+            {
+                "title": "The Birds",
+                "reason": ""
+            }
+        ]
+    },
+    "Nightcrawler": {
+        "year": 2014,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Prisoners",
+                "reason": "Jake Gyllenhall stress film"
+            },
+            {
+                "title": "Gone Girl",
+                "reason": ""
+            },
+            {
+                "title": "Ex Machina",
+                "reason": ""
+            }
+        ]
+    },
+    "Moneyball": {
+        "year": 2011,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "The Big Short",
+                "reason": "Also based on a Micheal Lewis book"
+            },
+            {
+                "title": "The Social Network",
+                "reason": ""
+            }
+        ]
+    },
+    "The Big Short": {
+        "year": 2015,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Margin Call",
+                "reason": ""
+            }
+        ]
+    },
+    "The Third Man": {
+        "year": 1949,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "East Of Eden",
+                "reason": "Also stops on a Ferris Wheel"
+            },
+            {
+                "title": "The Notebook",
+                "reason": "Also stops on a Ferris Wheel"
+            }
+        ]
+    },
+    "Ferris Bueller's Day Off": {
+        "year": 1986,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "The Breakfast Club",
+                "reason": "John Hughes"
+            },
+            {
+                "title": "Scent Of A Woman",
+                "reason": "I think this is similar but Al Pacino joins you for the day, and also he's blind"
+            }
+        ]
+    },
+    "The Grand Budapest Hotel": {
+        "year": 2014,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "The Royal Tenenbaums",
+                "reason": "Go check out middle-era Wes Anderson"
+            },
+            {
+                "title": "Paddington",
+                "reason": "Something similarly playful? I can't figure out the right word but I think you'll get it when you watch both"
+            }
+        ]
+    },
+    "The Royal Tenenbaums": {
+        "year": 2001,
+        "description": "I think middle-era Wes Anderson is my favourite. These films have a depth of emotion to them, and strike a good balance between his distinct style and feeling grounded.",
+        "recommendations": [
+            {
+                "title": "The Darjeeling Limited",
+                "reason": "Another one of my favourites."
+            },
+            {
+                "title": "The Life Aquatic",
+                "reason": ""
+            }
+        ]
+    },
+    "The Social Network": {
+        "year": 2010,
+        "description": "One of the best modern films. I've seen it so many times now, I pretty much know the whole film off by heart. Weird flex",
+        "recommendations": [
+            {
+                "title": "The Apprentice",
+                "reason": ""
+            },
+            {
+                "title": "Jobs",
+                "reason": "This ones about the other Silicon Valley entrepreneurs"
+            }
+        ]
+    },
+    "Jobs": {
+        "year": 2015,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Steve Jobs",
+                "reason": ""
             }
         ]
     }
