@@ -113,7 +113,7 @@ function createFilmBox(title, x, y) {
     box.innerHTML = `
         <div class="header">
             <h3>${title}</h3>
-            <span class="year">${film.year || "Unknown year"}</span>
+            <span class="year">${film.year || ""}</span>
         </div>
         <p>${description}</p>
         <hr class="divider">
@@ -123,7 +123,7 @@ function createFilmBox(title, x, y) {
                 .map(rec => {
                     const year = filmsData[rec.title]?.year ? ` (${filmsData[rec.title].year})` : '';
                     const linkClass = filmsData[rec.title] ? 'recommendation-title' : 'recommendation-title missing';
-                    const reason = rec.reason || "No reason provided";
+                    const reason = rec.reason || "";
                     return `
                         <div class="recommendation">
                             <span class="${linkClass}" data-title="${rec.title}">
@@ -132,7 +132,7 @@ function createFilmBox(title, x, y) {
                         </div>
                     `;
                 })
-                .join('') || "<p>No recommendations available</p>"}
+                .join('') || "<p></p>"}
         </div>
     `;
 
