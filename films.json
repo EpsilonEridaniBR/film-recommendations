@@ -1,0 +1,144 @@
+{
+    "Mean Streets": {
+        "year": 1973,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Heavy Traffic",
+                "reason": "One of the first real *adult\" animations, it's got a really grimy feel, similar to Mean Streets."
+            },
+            {
+                "title": "Goodfellas",
+                "reason": ""
+            }
+        ]
+    },
+    "Goodfellas": {
+        "year": 1990,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Casino",
+                "reason": "Scorsese's other big gangster film from the 90s"
+            }
+        ]
+    },
+    "Rope": {
+        "year": 1948,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Dial M For Murder",
+                "reason": ""
+            }
+        ]
+    },
+    "Brazil": {
+        "year": 1985,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "The Double",
+                "reason": "Another surreal ultra faceless corporation sort of film - directed by Richard Ayoade"
+            }
+        ]
+    },
+    "Apocalypse Now": {
+        "year": 1979,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Full Metal Jacket",
+                "reason": "Another Vietnam film"
+            },
+            {
+                "title": "The Deer Hunter",
+                "reason": ""
+            }
+        ]
+    },
+    "Casablanca": {
+        "year": 1942,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "To Have And Have Not",
+                "reason": "Lots of people call this a bit of a ripoff -- and it isn't as good! -- but it's nice if you want more of the Bogart-as-an-expat-during-WW2 genre"
+            }
+        ]
+    },
+    "To Have And Have Not": {
+        "year": 1944,
+        "description": "",
+        "recommendations": []
+    },
+    "The Deer Hunter": {
+        "year": 1976,
+        "description": "My personal favourite Vietnam film, and the best use of \"Can't Take My Eyes Off Of You\" imo",
+        "recommendations": [
+            {
+                "title": "10 Things I Hate About You",
+                "reason": "Also uses that Frankie Valli song"
+            },
+            {
+                "title": "The Killing Fields",
+                "reason": ""
+            }
+        ]
+    },
+    "The Killing Fields": {
+        "year": 1984,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Civil War",
+                "reason": "Looking at war from a journalist's POV"
+            }
+        ]
+    },
+    "Blade Runner": {
+        "year": 1982,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "AKIRA",
+                "reason": "Cyberpunk world"
+            }
+        ]
+    },
+    "AKIRA": {
+        "year": 1988,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Ghost In The Shell",
+                "reason": ""
+            }
+        ]
+    },
+    "Ghost In The Shell": {
+        "year": 1995,
+        "description": "",
+        "recommendations": []
+    },
+    "Blade Runner 2049": {
+        "year": 2017,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Drive",
+                "reason": "Ryan Gosling plays a man with no emotion"
+            }
+        ]
+    },
+    "Drive": {
+        "year": 2011,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Baby Driver",
+                "reason": "If you think the best part of this fantastic film was the car chases"
+            }
+        ]
+    }
+}

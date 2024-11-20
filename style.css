@@ -1,0 +1,144 @@
+:root {
+    --background: #F6F7EB;
+    --title-page: #E5E8C5;
+    --border: #1E1A1D;
+    --text: #1E1A1D;
+    --title-clickable: #8338EC;
+    --title-hover: #8338EC;
+    --title-not-clickable: #8338EC;
+    --title: #1E1A1D;
+    --recommendations: #1E1A1D;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: var(--background);
+    color: var(--text);
+}
+
+#app {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    padding: 20px;
+}
+
+.box {
+    background: var(--title-page);
+    border: 1px solid var(--border);
+    border-radius: 12px; /* Softer corners */
+    padding: 16px;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.6);
+    position: absolute;
+    max-width: 320px;
+    overflow: hidden;
+    z-index: 10; /* Ensure draggable boxes appear on top */
+}
+
+.box .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px; /* Increase this value to add more space */
+    color: var(--border);
+    font-size: 22px;
+    font-weight: bold;
+}
+
+
+.box h3 {
+    margin: 0;
+    color: var(--title);
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.box .header .year {
+    margin: 0;
+    color: var(--text);
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.box p {
+    margin: 0 0 8px;
+    color: var(--text);
+    font-style: italic;
+    font-size: 16px;
+}
+
+.box h1 {
+    margin: 0 0 8px;
+    color: var(--text);
+    font-style: italic;
+    font-size: 20px;
+}
+
+.box h4 {
+    margin: 0 0 6px;
+    font-size: 16px;
+    color: var(--recommendations);
+}
+
+#film-input {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    background-color: var(--title-page);
+    color: var(--text);
+}
+
+.recommendation {
+    margin-top: 8px;
+}
+
+.recommendation-title {
+    color: var(--title-clickable);
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.recommendation-title:hover {
+    color: var(--title-hover);
+}
+
+.recommendation-title.missing {
+    color: var(--title-not-clickable);
+    text-decoration: none;
+    cursor: default;
+}
+
+.divider {
+    border: 0;
+    height: 1px;
+    background: var(--border);
+    margin: 12px 0; 
+    width: 100%; 
+}
+
+/* Shake animation */
+@keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(-5px); }
+    50% { transform: translateX(5px); }
+    75% { transform: translateX(-5px); }
+}
+
+.shake {
+    animation: shake 0.5s;
+    color: red;
+}
+
+.error {
+    border: 2px solid red;
+    color: red;
+}
