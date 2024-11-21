@@ -1,11 +1,11 @@
 :root {
-    --background: #F6F7EB;
-    --title-page: #E5E8C5;
+    --background: #ffffff;
+    --title-page: #EDEEF1;
     --border: #1E1A1D;
     --text: #1E1A1D;
-    --title-clickable: #8338EC;
-    --title-hover: #8338EC;
-    --title-not-clickable: #8338EC;
+    --title-clickable: #007EE3;
+    --title-hover: #007EE3;
+    --title-not-clickable: #1E1A1D;
     --title: #1E1A1D;
     --recommendations: #1E1A1D;
 }
