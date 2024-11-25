@@ -13,11 +13,6 @@
             }
         ]
     },
-    "To Have And Have Not": {
-        "year": 1944,
-        "description": "",
-        "recommendations": []
-    },
     "The Killing Fields": {
         "year": 1984,
         "description": "",
@@ -118,16 +113,6 @@
             },
             {
                 "title": "The Social Network",
-                "reason": ""
-            }
-        ]
-    },
-    "Jobs": {
-        "year": 2015,
-        "description": "",
-        "recommendations": [
-            {
-                "title": "Steve Jobs",
                 "reason": ""
             }
         ]
@@ -1900,6 +1885,10 @@
             {
                 "title": "Four Weddings And A Funeral",
                 "reason": ""
+            },
+            {
+                "title": "Pretty Woman",
+                "reason": ""
             }
         ]
     },
@@ -3019,7 +3008,7 @@
                 "reason": ""
             },
             {
-                "title": "Rum Punch",
+                "title": "The Rum Diary",
                 "reason": ""
             }
         ]
@@ -4683,7 +4672,12 @@
     "Schindler's List": {
         "year": 1993,
         "description": "",
-        "recommendations": []
+        "recommendations": [
+            {
+                "title": "American Pie",
+                "reason": "Something a bit lighter? I watched both of these on the same day. Forget Barbenheimer, what about Schindler's Pie??"
+            }
+        ]
     },
     "American Pie": {
         "year": 1999,
@@ -5808,7 +5802,7 @@
                 "reason": ""
             },
             {
-                "title": "Rum Punch",
+                "title": "The Rum Diary",
                 "reason": ""
             }
         ]
@@ -6760,6 +6754,571 @@
         "recommendations": [
             {
                 "title": "Private Life",
+                "reason": ""
+            }
+        ]
+    },
+    "You Can't Run Forever": {
+        "year": 2024,
+        "description": "",
+        "recommendations": []
+    },
+    "Shaolin Soccer": {
+        "year": 2001,
+        "description": "",
+        "recommendations": []
+    },
+    "Dick Tracy": {
+        "year": 1990,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Mystery Men",
+                "reason": ""
+            },
+            {
+                "title": "Galaxy Quest",
+                "reason": ""
+            }
+        ]
+    },
+    "American Fiction": {
+        "year": 2023,
+        "description": "",
+        "recommendations": []
+    },
+    "The Martian": {
+        "year": 2015,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Apollo 13",
+                "reason": ""
+            }
+        ]
+    },
+    "The New Boy": {
+        "year": 2024,
+        "description": "",
+        "recommendations": []
+    },
+    "The Zone Of Interest": {
+        "year": 2024,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Schindler's List",
+                "reason": ""
+            }
+        ]
+    },
+    "The Secret Of My Success": {
+        "year": 1987,
+        "description": "",
+        "recommendations": []
+    },
+    "Gilda": {
+        "year": 1946,
+        "description": "",
+        "recommendations": []
+    },
+    "Top Hat": {
+        "year": 1935,
+        "description": "",
+        "recommendations": []
+    },
+    "Swing Time": {
+        "year": 1936,
+        "description": "",
+        "recommendations": []
+    },
+    "Dune: Part Two": {
+        "year": 2024,
+        "description": "",
+        "recommendations": []
+    },
+    "Searching For Bobby Fischer": {
+        "year": 1993,
+        "description": "",
+        "recommendations": []
+    },
+    "The Awful Truth": {
+        "year": 1937,
+        "description": "",
+        "recommendations": []
+    },
+    "A Room With A View": {
+        "year": 1985,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "The English Patient",
+                "reason": ""
+            },
+            {
+                "title": "A Passage To India",
+                "reason": ""
+            },
+            {
+                "title": "Howard's End",
+                "reason": ""
+            }
+        ]
+    },
+    "All Of Us Strangers": {
+        "year": 2024,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Aftersun",
+                "reason": ""
+            }
+        ]
+    },
+    "Aftersun": {
+        "year": 2022,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "All Of Us Strangers",
+                "reason": ""
+            }
+        ]
+    },
+    "Rounders": {
+        "year": 1998,
+        "description": "",
+        "recommendations": [
+            {
+                "title": 21,
+                "reason": ""
+            }
+        ]
+    },
+    "Driveaway Dolls": {
+        "year": 2024,
+        "description": "",
+        "recommendations": []
+    },
+    "Kiss Kiss Bang Bang": {
+        "year": 2005,
+        "description": "",
+        "recommendations": []
+    },
+    "Unicorns": {
+        "year": 2024,
+        "description": "",
+        "recommendations": []
+    },
+    "Eurotrip": {
+        "year": 2004,
+        "description": "",
+        "recommendations": []
+    },
+    "Funny Games": {
+        "year": 2008,
+        "description": "",
+        "recommendations": []
+    },
+    "My Fair Lady": {
+        "year": 1964,
+        "description": "",
+        "recommendations": []
+    },
+    "Risky Business": {
+        "year": 1983,
+        "description": "",
+        "recommendations": []
+    },
+    "A Rainy Day In New York": {
+        "year": 2019,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Caf\u00e9 Society",
+                "reason": ""
+            },
+            {
+                "title": "Midnight In Paris",
+                "reason": ""
+            }
+        ]
+    },
+    "Last Of The Mohicans": {
+        "year": 1992,
+        "description": "",
+        "recommendations": []
+    },
+    "Muriel's Wedding": {
+        "year": 1994,
+        "description": "",
+        "recommendations": []
+    },
+    "Civil War": {
+        "year": 2024,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "The Killing Fields",
+                "reason": ""
+            }
+        ]
+    },
+    "Steve Jobs": {
+        "year": 2015,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "The Social Network",
+                "reason": ""
+            },
+            {
+                "title": "Jobs",
+                "reason": ""
+            }
+        ]
+    },
+    "Three Identical Strangers": {
+        "year": 2018,
+        "description": "",
+        "recommendations": []
+    },
+    "The Rum Diary": {
+        "year": 2011,
+        "description": "",
+        "recommendations": []
+    },
+    "Boy Kills World": {
+        "year": 2024,
+        "description": "",
+        "recommendations": []
+    },
+    "Challengers": {
+        "year": 2024,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Saltburn",
+                "reason": ""
+            },
+            {
+                "title": "The Prestige",
+                "reason": ""
+            },
+            {
+                "title": "A Bigger Splash",
+                "reason": ""
+            }
+        ]
+    },
+    "Reversal Of Fortune": {
+        "year": 1990,
+        "description": "",
+        "recommendations": []
+    },
+    "La Chimera": {
+        "year": 2024,
+        "description": "",
+        "recommendations": []
+    },
+    "Charade": {
+        "year": 1963,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "One, Two, Three",
+                "reason": ""
+            }
+        ]
+    },
+    "Idiocracy": {
+        "year": 2006,
+        "description": "",
+        "recommendations": []
+    },
+    "48 Hrs.": {
+        "year": 1982,
+        "description": "",
+        "recommendations": []
+    },
+    "The Fall Guy": {
+        "year": 2024,
+        "description": "",
+        "recommendations": []
+    },
+    "The Idea Of You": {
+        "year": 2024,
+        "description": "",
+        "recommendations": []
+    },
+    "Caf\u00e9 Society": {
+        "year": 2016,
+        "description": "",
+        "recommendations": []
+    },
+    "One Day": {
+        "year": 2011,
+        "description": "",
+        "recommendations": []
+    },
+    "A Quiet Place: Day One": {
+        "year": 2024,
+        "description": "",
+        "recommendations": []
+    },
+    "Robots": {
+        "year": 2005,
+        "description": "",
+        "recommendations": []
+    },
+    "The Naked Gun 33 1/3rd: The Final Insult": {
+        "year": 1994,
+        "description": "",
+        "recommendations": []
+    },
+    "Kinds Of Kindness": {
+        "year": 2024,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "The Killing Of A Sacred Deer",
+                "reason": ""
+            },
+            {
+                "title": "I'm Thinking Of Ending Things",
+                "reason": "Jesse Plemons"
+            },
+            {
+                "title": "Driveaway Dolls",
+                "reason": "Margaret Qualley"
+            }
+        ]
+    },
+    "The Basketball Diaries": {
+        "year": 1995,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Sleepers",
+                "reason": ""
+            },
+            {
+                "title": "Coach Carter",
+                "reason": ""
+            }
+        ]
+    },
+    "Letters From An Unknown Woman": {
+        "year": 1947,
+        "description": "",
+        "recommendations": []
+    },
+    "Mystery Men": {
+        "year": 1999,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Dick Tracy",
+                "reason": ""
+            },
+            {
+                "title": "Galaxy Quest",
+                "reason": ""
+            }
+        ]
+    },
+    "Serendipity": {
+        "year": 2001,
+        "description": "",
+        "recommendations": []
+    },
+    "Pride And Prejudice": {
+        "year": 2005,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Sense And Sensibility",
+                "reason": ""
+            }
+        ]
+    },
+    "Deadpool And Wolverine": {
+        "year": 2024,
+        "description": "",
+        "recommendations": []
+    },
+    "Marathon Man": {
+        "year": 1976,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Blowout",
+                "reason": ""
+            }
+        ]
+    },
+    "Trap": {
+        "year": 2024,
+        "description": "",
+        "recommendations": []
+    },
+    "Tremors": {
+        "year": 1990,
+        "description": "",
+        "recommendations": []
+    },
+    "Our Man In Havana": {
+        "year": 1960,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "To Have And Have Not",
+                "reason": ""
+            }
+        ]
+    },
+    "Play It Again, Sam": {
+        "year": 1972,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Casablanca",
+                "reason": ""
+            },
+            {
+                "title": "The Purple Rose Of Cairo",
+                "reason": ""
+            }
+        ]
+    },
+    "Sense And Sensibility": {
+        "year": 1995,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Pride And Prejudice",
+                "reason": ""
+            },
+            {
+                "title": "A Room With A View",
+                "reason": ""
+            }
+        ]
+    },
+    "Arbitrage": {
+        "year": 2012,
+        "description": "",
+        "recommendations": []
+    },
+    "Surf's Up": {
+        "year": 2007,
+        "description": "",
+        "recommendations": []
+    },
+    "Hit Man": {
+        "year": 2023,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Out Of Sight",
+                "reason": ""
+            }
+        ]
+    },
+    "Kate And Leopold": {
+        "year": 2001,
+        "description": "",
+        "recommendations": []
+    },
+    "Terrifier 3": {
+        "year": 2024,
+        "description": "",
+        "recommendations": []
+    },
+    "Brief Encounter": {
+        "year": 1946,
+        "description": "",
+        "recommendations": []
+    },
+    "My Old Ass": {
+        "year": 2024,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "The Edge Of Seventeen",
+                "reason": ""
+            }
+        ]
+    },
+    "Days Of Heaven": {
+        "year": 1978,
+        "description": "",
+        "recommendations": []
+    },
+    "All About Eve": {
+        "year": 1950,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Sunset Blvd.",
+                "reason": ""
+            },
+            {
+                "title": "Bullets Over Broadway",
+                "reason": ""
+            }
+        ]
+    },
+    "The Magnificent Ambersons": {
+        "year": 1942,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Citizen Kane",
+                "reason": ""
+            }
+        ]
+    },
+    "The Apprentice": {
+        "year": 2024,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "The Social Network",
+                "reason": ""
+            }
+        ]
+    },
+    "Private Life": {
+        "year": 2018,
+        "description": "",
+        "recommendations": []
+    },
+    "Heretic": {
+        "year": 2024,
+        "description": "",
+        "recommendations": []
+    },
+    "To Have And Have Not": {
+        "year": 1944,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "Casablanca",
+                "reason": ""
+            },
+            {
+                "title": "Our Man In Havana",
+                "reason": ""
+            }
+        ]
+    },
+    "Wicked": {
+        "year": 2024,
+        "description": "",
+        "recommendations": [
+            {
+                "title": "The Wizard Of Oz",
                 "reason": ""
             }
         ]
