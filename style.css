@@ -7,7 +7,9 @@
     --title-hover: #007EE3;
     --title-not-clickable: #1E1A1D;
     --title: #1E1A1D;
+    --light-text: #a5a5a5;
     --recommendations: #1E1A1D;
+    --pinned-border: #ff9800; /* Color for pinned border */
 }
 
 body {
@@ -40,31 +42,52 @@ body {
     max-width: 320px;
     overflow: hidden;
     z-index: 10; /* Ensure draggable boxes appear on top */
+    transition: border-color 0.2s ease-in-out; /* Smooth border color change */
+}
+
+.box.pinned {
+    border-color: var(--pinned-border); /* Highlight pinned boxes */
 }
 
 .box .header {
     display: flex;
-    justify-content: space-between;
     align-items: center;
-    margin-bottom: 12px; /* Increase this value to add more space */
+    justify-content: space-between; /* Keep title and pin aligned */
+    margin-bottom: 12px; /* Space below the header */
     color: var(--border);
     font-size: 22px;
     font-weight: bold;
+    position: relative;
 }
-
 
 .box h3 {
     margin: 0;
     color: var(--title);
     font-size: 22px;
     font-weight: bold;
+    flex-grow: 0; /* Don't stretch */
 }
 
 .box .header .year {
-    margin: 0;
+    margin-left: 16px; /* Space between title and year */
     color: var(--text);
     font-size: 18px;
-    font-weight: bold;
+    /* font-style: italic; */
+    /* font-weight: bold; */
+    flex-shrink: 0; /* Ensure it doesn't collapse */
+}
+
+.box .header .pin-button {
+    font-size: 20px; /* Size of the pin emoji */
+    cursor: pointer;
+    transition: transform 0.2s, color 0.2s;
+    color: var(--title-clickable);
+    margin-left: auto; /* Push the pin to the far right */
+}
+
+.box .header .pin-button:hover {
+    transform: scale(1.2); /* Make pin button larger on hover */
+    color: var(--title-hover);
 }
 
 .box p {
@@ -85,6 +108,12 @@ body {
     margin: 0 0 6px;
     font-size: 16px;
     color: var(--recommendations);
+}
+
+.box .author {
+    text-align: right;
+    font-style: italic;
+    color: var(--light-text);
 }
 
 #film-input {

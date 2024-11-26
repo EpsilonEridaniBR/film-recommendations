@@ -19,6 +19,7 @@ def convert_excel_to_json(excel_path, json_path):
 
         films_data[row["Title"]] = {
             "year": int(row["Year"]) if pd.notna(row["Year"]) else None,
+            "author": row["Initials"] or "",
             "description": row["Description"] or "",
             "recommendations": recommendations,
         }
