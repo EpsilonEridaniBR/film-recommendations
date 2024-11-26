@@ -171,3 +171,26 @@ body {
     border: 2px solid red;
     color: red;
 }
+
+.pin-button img {
+    width: 16px;
+    height: 16px;
+    display: inline-flex;
+    align-items: center;
+  }
+  
+
+.pin-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    margin-left: 10px; /* Adjust spacing */
+}
+
+.pin-button svg {
+    width: 16px;
+    height: 16px;
+}

@@ -3,6 +3,13 @@ let filmsData = {};
 let openedBoxes = []; // Track all opened boxes
 let pinnedBoxes = []; // Track pinned boxes
 
+// Constants
+const INITIAL_DISPLACEMENT_X = 20;
+const INITIAL_DISPLACEMENT_Y = 200;
+const ORIGINAL_PLACEHOLDER = "Enter a film title...";
+const RECTANGLE_PADDING = 40;
+
+
 // Load films.json dynamically
 fetch('films.json')
     .then(response => response.json())
@@ -12,6 +19,8 @@ fetch('films.json')
     .catch(error => {
         console.error('Error loading films.json:', error);
     });
+
+document.getElementById('initial-box').style.marginTop = `${RECTANGLE_PADDING}px`;
 
 // Handle Enter key press in the input box
 document.getElementById('film-input').addEventListener('keydown', function (e) {
@@ -24,14 +33,14 @@ document.getElementById('film-input').addEventListener('keydown', function (e) {
         // Find the closest match (case-insensitive)
         const matchedTitle = findClosestMatch(filmTitle);
         if (matchedTitle) {
-            createFilmBox(matchedTitle, 20, 200); // Fixed initial position
+            createFilmBox(matchedTitle, INITIAL_DISPLACEMENT_X, INITIAL_DISPLACEMENT_Y); // Fixed initial position
         } else {
             // Handle invalid film input
             filmInput.placeholder = "I haven't seen that film, try another one";
             filmInput.classList.add('shake', 'error');
             setTimeout(() => {
                 filmInput.classList.remove('shake', 'error');
-                filmInput.placeholder = "Enter a film title...";
+                filmInput.placeholder = ORIGINAL_PLACEHOLDER;
             }, 2000);
         }
     }
